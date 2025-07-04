@@ -1,5 +1,4 @@
 import java.util.*;
-
 //INPUT FROM USER//
 
 public class UserInputCalculator {
